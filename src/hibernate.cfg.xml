@@ -3,6 +3,7 @@
         "-//Hibernate/Hibernate Configuration DTD//EN"
         "http://www.hibernate.org/xsd/hibernate-configuration-3.0.dtd">
 
+<!--проверить правильность конфига -->
 <hibernate-configuration>
     <session-factory>
         <property name="hibernate.connection.driver_class">org.postgresql.Driver</property>

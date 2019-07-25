@@ -7,5 +7,15 @@
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
       <jdbc-url>jdbc:postgresql://localhost:5432/notesdb</jdbc-url>
     </data-source>
+    <data-source source="LOCAL" name="resources:hibernate.cfg.xml/Hibernate" uuid="e29db639-68bf-48f6-be87-ded9d74fab56">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>Hibernate
+
+C:/Users/Stas/IdeaProjects/NotesOnlineApp/src/resources/hibernate.cfg.xml</remarks>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://localhost:5432/notesdb</jdbc-url>
+    </data-source>
   </component>
 </project>

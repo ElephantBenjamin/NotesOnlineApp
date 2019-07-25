@@ -9,6 +9,8 @@
         </element>
         <element id="directory" name="lib">
           <element id="library" level="project" name="Vaadin Server" />
+          <element id="library" level="project" name="Hibernate 5.4.3-5.4.3" />
+          <element id="library" level="project" name="postgresql-42.2.5" />
         </element>
       </element>
     </root>
